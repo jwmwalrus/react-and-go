@@ -9,6 +9,10 @@ This project uses [semantic versions](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [1.0.2] 2021-12-02
+
+Use bumpy-ride config
+
 ## [1.0.1] 2021-11-29
 
 Add missing variable
