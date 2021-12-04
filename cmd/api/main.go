@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/joho/godotenv"
-	"github.com/jwmwalrus/bumpy-ride/version"
+	"github.com/jwmwalrus/bumpy/pkg/version"
 	"github.com/jwmwalrus/react-and-go/models"
 	_ "github.com/lib/pq"
 )
